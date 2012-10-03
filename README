@@ -1,6 +1,6 @@
 漫画SPIDER爬虫项目
 
-基于open-uri和nokkogiri
+基于ruby的open-uri和nokogiri
 
 目前实现到抓取到网站全部目录下的卷数
 
